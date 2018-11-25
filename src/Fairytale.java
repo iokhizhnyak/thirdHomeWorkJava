@@ -14,9 +14,10 @@ public class Fairytale {
         heroes = newHeroes;
     }
 
-  
+
 
     public static void main(String[] args) {
+        System.out.println("Merge it!");
 
 
     }
